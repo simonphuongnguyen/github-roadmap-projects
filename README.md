@@ -2,4 +2,5 @@
 
 ## Single-Page CV
 - Path on Github: [Frontend/Single-Page_CV](https://github.com/simonphuongnguyen/roadmap.sh-learning/tree/main/Frontend/Single-Page_CV)
-https://roadmap.sh/projects/single-page-cv
+Link in Roadmap.sh: [Single-Page CV
+](https://roadmap.sh/projects/single-page-cv)
